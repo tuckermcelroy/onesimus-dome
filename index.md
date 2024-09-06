@@ -4,7 +4,7 @@ title: Tucker McElroy
 
 # Academic
 - [Google Scholar Page] (https://scholar.google.com/citations?user=vgvvaOEAAAAJ&hl=en)
-- List of papers
+- List of [papers](papers.md)
 
 # Code  Repositories
 1. Ecce Signum
