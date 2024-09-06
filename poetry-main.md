@@ -3,3 +3,5 @@
 ## Author of *The Jubilee of Auriel* and *Sheaf:Prodigal*
 
 Epic poetry, science fiction, and redemptive drama
+
+![Ocean Background](/docs/assets/images/uploaded-from-file-j.png)
