@@ -11,7 +11,7 @@ title: Tucker McElroy
 2. VARHi
 
 # Multivariate Real-Time Signal Extraction
-1. Chapter 3
+1. [Chapter 3](https://github.com/tuckermcelroy/MDFA-book/blob/main/docs/basic.html)
 2. R Code Repo
 
 # Poetry 
