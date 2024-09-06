@@ -1,6 +1,6 @@
 # Onesimus Dome
 
-## Author of *The Jubilee of Auriel* and [*Sheaf:Prodigal*](jubilee-auriel.md)
+## Author of [*The Jubilee of Auriel*](jubilee-auriel.md) and *Sheaf:Prodigal*
 
 Epic poetry, science fiction, and redemptive drama
 
