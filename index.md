@@ -2,6 +2,17 @@
 title: Tucker McElroy
 ---
 
-# Code  test
+# Academic
+- Google Scholar Page
+- List of papers
 
-# Poetry  working?
+# Code  Repositories
+1. Ecce Signum
+2. VARHi
+
+# Multivariate Real-Time Signal Extraction
+1. Chapter 3
+2. R Code Repo
+
+# Poetry of Onesimus Dome
+
