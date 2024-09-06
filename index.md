@@ -14,6 +14,7 @@ title: Tucker McElroy
 1. Chapter 3
 2. R Code Repo
 
-# Poetry of Onesimus Dome
-- [Test](http://onesimusdome.com)
+# Poetry 
+- [Onesimus Dome](poetry-main.md)
+- [Old website](http://onesimusdome.com)
 
