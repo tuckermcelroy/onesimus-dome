@@ -3,7 +3,7 @@ title: Tucker McElroy
 ---
 
 # Academic
-- [Google Scholar Page] (https://scholar.google.com/citations?user=vgvvaOEAAAAJ&hl=en)
+- [Google Scholar Page] (https://scholar.google.com/citations?hl=en&user=vgvvaOEAAAAJ)
 - List of [papers](papers.md)
 
 # Code  Repositories
