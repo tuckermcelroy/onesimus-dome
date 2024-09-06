@@ -1,6 +1,6 @@
 # Sheaf: Prodigal
 
-<img align="left" src="/docs/assets/images/Sheaf6-jpg.png" alt="Side Image" width="480"/>
+![Side Image](/docs/assets/images/Sheaf6-jpg.png)
 
 Then Scythian warriors did toss their blades,
 
